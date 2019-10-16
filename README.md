@@ -2,6 +2,15 @@
 
 <p align="center"><img width="40%" src="The_GAN_Zoo.jpg" /></p>
 
+The books mostly seem to cover the same GAN architectures, such as:
+
+Standard: GAN, DCGAN.
+Conditional: cGAN, SS-GAN, InfoGAN, ACGAN.
+Loss: WGAN, WGAN-GP, LSGAN.
+Image Translation: Pix2Pix, CycleGAN.
+Advanced GANs: BigGAN, PG-GAN, StyleGAN.
+Other: StackGAN, 3DGAN, BEGAN, SRGAN, DiscoGAN, SEGAN.
+
 Every week, new GAN papers are coming out and it's hard to keep track of them all, not to mention the incredibly creative ways in which researchers are naming these GANs! So, here's a list of what started as a fun activity compiling all named GANs!
 
 <p align="center"><img width="50%" src="cumulative_gans.jpg" /></p>
